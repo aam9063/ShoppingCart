@@ -1,0 +1,15 @@
+{
+    "name": "albalamar/shopping-cart",
+    "autoload": {
+        "psr-4": {
+            "ShoppingCart\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aam9063",
+            "email": "albert9063@gmail.com"
+        }
+    ],
+    "require": {}
+}
